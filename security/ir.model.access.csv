@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_purchase_order_cost,purchase.order.cost,model_purchase_order_cost,purchase.group_purchase_user,1,1,1,1
+access_product_product_cost,product.product.cost,model_product_product_cost,purchase.group_purchase_user,1,1,1,1
